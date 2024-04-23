@@ -1,0 +1,8 @@
+1 baozi 3
+3 yxy 1
+4 gxt 1
+5 lyx 1
+6 zhao 1
+7 yxy 1
+2 yu 2
+88 sb 1
